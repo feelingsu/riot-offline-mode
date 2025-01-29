@@ -7,8 +7,10 @@ The app allows you to appear offline in **Val/LoL** and maybe other games by Rio
 
 **Can I still invite people? Can they invite me?**                                                        
 You can invite anyone and join in the lobby by the code, but you can't see your friend list.
-**Can I talk in lobbies/champion/agent select?**                                                         
+
+**Can I talk in lobbies/champion/agent select?**                                                       
 Yes u can talk in voice chat, but text chat will be disabled.
+
 **How do I use this App with a specific game?**                                                           
 Just open the App (Riot Offline) , click on **Offline** button and test it out. Remember that your firewall needs to be **enabled** in windows settings. 
 
