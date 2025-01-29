@@ -7,6 +7,7 @@ Functions : Offline/Online buttons (you will know what status you on right now ,
 **©babyvoyage**                                         
 https://www.twitch.tv/lovelyummy
 # FAQ
+This project is written in **Python**.
 
 **Where can I download this App?**
 [Click on me to download](https://github.com/feelingsu/riot-offline-mode/archive/refs/heads/main.zip)                         
