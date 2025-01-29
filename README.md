@@ -3,6 +3,9 @@ Valorant offline mode , League of Legends Offline mode , Offline mode for Riot g
 The app allows you to appear offline in **Val/LoL** and maybe other games by Riot , currently tested only in Val and LoL.
 
 Functions : Offline/Online buttons (you will know what status you on right now , current status is on top of the app window) , you can change the background color in the application (Light/Dark) dark mode by the default.
+
+**©babyvoyage**
+https://www.twitch.tv/lovelyummy
 # FAQ
 
 **Where can I download this App?**
