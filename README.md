@@ -7,7 +7,8 @@ Functions : Offline/Online buttons (you will know what status you on right now ,
 
 **Where can I download this App?**
 [Click on me to download](https://github.com/feelingsu/riot-offline-mode/archive/refs/heads/main.zip)
-Or click on **code** > **download zip**
+Or click on **code** > **download zip**.
+
 Open Riot Offline.exe ^_^
 
 
