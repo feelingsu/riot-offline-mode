@@ -23,7 +23,8 @@ Riot has confirmed that you won't get banned for using such of programms. It may
 
 ## Windows Firewall
 For the app to work correctly firewall needs to be enabled in windows settings.                               
-Find these : ![image](https://github.com/user-attachments/assets/8e2d42ee-462e-4571-9faa-21675987ac0e).
+Find these : ![image](https://github.com/user-attachments/assets/8e2d42ee-462e-4571-9faa-21675987ac0e)                      
+
 The firewall settings needs to be green:                                                  
 ![image](https://github.com/user-attachments/assets/ad099059-f643-4d53-9165-ea95d856c74d)                                          
 
