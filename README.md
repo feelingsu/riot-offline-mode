@@ -26,9 +26,9 @@ For the app to work correctly firewall needs to be enabled in windows settings.
 Find these : ![image](https://github.com/user-attachments/assets/8e2d42ee-462e-4571-9faa-21675987ac0e)                      
 
 The firewall settings needs to be green:                                                  
-![image](https://github.com/user-attachments/assets/ad099059-f643-4d53-9165-ea95d856c74d)                                          
+![image](https://github.com/user-attachments/assets/ad099059-f643-4d53-9165-ea95d856c74d) ![image](https://github.com/user-attachments/assets/ecab967f-e1cf-494f-be4b-a3c4b9990bd1)                                        
 
-![image](https://github.com/user-attachments/assets/ecab967f-e1cf-494f-be4b-a3c4b9990bd1)
+That's all , the app will be work fine.
 
 
 
