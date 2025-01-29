@@ -31,6 +31,13 @@ The firewall settings needs to be green:
                                      
 
 That's all , the app will be work fine.
+## App
+
+Online (default) /                                           Offline
+![image](https://github.com/user-attachments/assets/f4b584ec-a85a-4440-8d97-8bc0cde43156) ![image](https://github.com/user-attachments/assets/370942a3-8b91-4a25-a9ab-091d2c813b11)
+
+
+
 
 
 
