@@ -33,6 +33,8 @@ The firewall settings needs to be green:
 That's all , the app will be work fine.
 ## App
 **Visual**
+
+
 ![image](https://github.com/user-attachments/assets/c62eca3a-46c5-4eab-b611-052538c434af) ![image](https://github.com/user-attachments/assets/d94d1974-5021-466c-829e-ca978b142ff8)
 
 
