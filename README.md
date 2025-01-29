@@ -34,7 +34,8 @@ That's all , the app will be work fine.
 ## App
 
 Online (default) /                                           Offline
-![image](https://github.com/user-attachments/assets/f4b584ec-a85a-4440-8d97-8bc0cde43156) ![image](https://github.com/user-attachments/assets/370942a3-8b91-4a25-a9ab-091d2c813b11)
+![image](https://github.com/user-attachments/assets/c62eca3a-46c5-4eab-b611-052538c434af) ![image](https://github.com/user-attachments/assets/d94d1974-5021-466c-829e-ca978b142ff8)
+
 
 
 
