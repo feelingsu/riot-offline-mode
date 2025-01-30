@@ -11,7 +11,7 @@ This project is written in **Python**.
 
 **Where can I download this App?**
 [Click on me to download](https://github.com/feelingsu/riot-offline-mode/archive/refs/heads/main.zip)                         
-Or click on **Releases** > **download last release (source zip**.                                                 
+Or click on **Releases** > **download last release (source zip)**.                                                 
 Open Riot Offline.exe ^_^
 
 
