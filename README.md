@@ -4,14 +4,14 @@ The app allows you to appear offline in **Val/LoL** and maybe other games by Rio
 
 Functions : Offline/Online buttons (you will know what status you on right now , current status is on top of the app window) , you can change the background color in the application (Light/Dark) dark mode by the default.
 
-**©babyvoyage**                                         
+**©lovelyummy**                                         
 https://www.twitch.tv/lovelyummy
 # FAQ
 This project is written in **Python**.
 
 **Where can I download this App?**
 [Click on me to download](https://github.com/feelingsu/riot-offline-mode/archive/refs/heads/main.zip)                         
-Or click on **code** > **download zip**.                                                 
+Or click on **Releases** > **download last release (source zip**.                                                 
 Open Riot Offline.exe ^_^
 
 
