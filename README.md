@@ -42,7 +42,8 @@ That's all , the app will be work fine.
 **Visual**
 
 
-![image](https://github.com/user-attachments/assets/c62eca3a-46c5-4eab-b611-052538c434af) ![image](https://github.com/user-attachments/assets/d94d1974-5021-466c-829e-ca978b142ff8)
+![image](https://github.com/user-attachments/assets/415b8e0c-c796-4a71-b8cf-eb7cb1f1d01b) ![image](https://github.com/user-attachments/assets/d2c8abe1-28be-472d-88cc-1bebfea9d65c)
+
 
 
 
