@@ -6,12 +6,17 @@ Functions : Offline/Online buttons (you will know what status you on right now ,
 
 **©lovelyummy**                                         
 https://www.twitch.tv/lovelyummy
-# FAQ
+
+# Using via python
 This project is written in **Python**. (3.12)
 Packed in pyinstaller, clear code.
-
+Download > [Riot Offline by lovelyummy](https://github.com/lovelyummy/riot-offline-mode)
+bash `cd foldername`
+bash `pip install -r requirements.txt`
+bash `python main.py`
+# FAQ
 **Where can I download this App?**
-[Click on me to download](https://github.com/feelingsu/riot-offline-mode/archive/refs/heads/main.zip)                         
+[Click on me to download](https://github.com/lovelyummy/riot-offline-mode/archive/refs/heads/main.zip)                         
 Or click on **Releases** > **download last release (source zip)**.                                                 
 Open Riot Offline.exe ^_^
 
