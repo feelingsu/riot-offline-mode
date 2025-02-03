@@ -48,7 +48,8 @@ That's all , the app will be work fine.
 **Visual**
 
 
-![image](https://github.com/user-attachments/assets/415b8e0c-c796-4a71-b8cf-eb7cb1f1d01b) ![image](https://github.com/user-attachments/assets/d2c8abe1-28be-472d-88cc-1bebfea9d65c)
+![image](https://github.com/user-attachments/assets/2553255e-dfa8-4b96-82af-5705d2b18224)  ![image](https://github.com/user-attachments/assets/27944841-bce0-411a-b551-fc57512a80fb)
+
 
 
 
